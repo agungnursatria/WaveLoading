@@ -1,0 +1,4 @@
+#Thu Jan 04 09:50:46 ICT 2018
+base.0=D\:\\Documents\\CodingLatihan\\Android Studio\\Program\\WaveLoading\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,7 @@
+#Thu Dec 28 17:29:29 ICT 2017
+base.0=D\:\\Documents\\CodingLatihan\\Android\\Program\\WaveLoading\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_342a600f09a759c9b3dda24a833ba9c6469b452c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Documents\\CodingLatihan\\Android\\Program\\WaveLoading\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ee9926e77c29c55fd8ebe9eda9df589b2f818dcf\\classes.dex
+base.1=D\:\\Documents\\CodingLatihan\\Android\\Program\\WaveLoading\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ee9926e77c29c55fd8ebe9eda9df589b2f818dcf
+file.0=D\:\\Documents\\CodingLatihan\\Android\\Program\\WaveLoading\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_342a600f09a759c9b3dda24a833ba9c6469b452c\\classes.dex

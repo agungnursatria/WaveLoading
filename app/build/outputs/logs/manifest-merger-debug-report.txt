@@ -1,0 +1,148 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [me.itangqi.waveloadingview:library:0.3.5] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\library-0.3.5.aar\ccbcf63f674bc59030bf632e4bd12afa\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\91bbeeedcf0b3a6a9d6039b825a70925\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b21b09cb583c1dc57812ab973b24ec09\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\b034b23b1db31c9ced41248169b82b02\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\be8412b773ba04f97c770ce187cf30f2\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\4c9f7743d6802dec292bb06b20007ee2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\d0ba7c2528866dc56286829cb34d29a9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\d2d2341921e61cd17662128e95a73c57\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\e6423e95a8baa3630db65d56f4c17fdf\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\71bde7521ce70a51fe5b143e8b2dd608\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\2a41e54611849271a4151350909ffdd1\AndroidManifest.xml:17:1-31:12
+INJECTED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml
+		ADDED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml
+		ADDED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [me.itangqi.waveloadingview:library:0.3.5] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\library-0.3.5.aar\ccbcf63f674bc59030bf632e4bd12afa\AndroidManifest.xml:11:5-15:19
+MERGED from [me.itangqi.waveloadingview:library:0.3.5] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\library-0.3.5.aar\ccbcf63f674bc59030bf632e4bd12afa\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\91bbeeedcf0b3a6a9d6039b825a70925\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\91bbeeedcf0b3a6a9d6039b825a70925\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b21b09cb583c1dc57812ab973b24ec09\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b21b09cb583c1dc57812ab973b24ec09\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\b034b23b1db31c9ced41248169b82b02\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\b034b23b1db31c9ced41248169b82b02\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\be8412b773ba04f97c770ce187cf30f2\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\be8412b773ba04f97c770ce187cf30f2\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\4c9f7743d6802dec292bb06b20007ee2\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\4c9f7743d6802dec292bb06b20007ee2\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\d0ba7c2528866dc56286829cb34d29a9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\d0ba7c2528866dc56286829cb34d29a9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\d2d2341921e61cd17662128e95a73c57\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\d2d2341921e61cd17662128e95a73c57\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\e6423e95a8baa3630db65d56f4c17fdf\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\e6423e95a8baa3630db65d56f4c17fdf\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\71bde7521ce70a51fe5b143e8b2dd608\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\71bde7521ce70a51fe5b143e8b2dd608\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\2a41e54611849271a4151350909ffdd1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\2a41e54611849271a4151350909ffdd1\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml:11:9-40
+activity#anb.waveloading.SplashScreen
+ADDED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml:16:27-74
+activity#anb.waveloading.MainActivity
+ADDED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml:19:9-59
+	android:name
+		ADDED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml:19:19-47
+uses-sdk
+INJECTED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml
+INJECTED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml
+MERGED from [me.itangqi.waveloadingview:library:0.3.5] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\library-0.3.5.aar\ccbcf63f674bc59030bf632e4bd12afa\AndroidManifest.xml:7:5-9:41
+MERGED from [me.itangqi.waveloadingview:library:0.3.5] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\library-0.3.5.aar\ccbcf63f674bc59030bf632e4bd12afa\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\91bbeeedcf0b3a6a9d6039b825a70925\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\91bbeeedcf0b3a6a9d6039b825a70925\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b21b09cb583c1dc57812ab973b24ec09\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b21b09cb583c1dc57812ab973b24ec09\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\b034b23b1db31c9ced41248169b82b02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\b034b23b1db31c9ced41248169b82b02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\be8412b773ba04f97c770ce187cf30f2\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\be8412b773ba04f97c770ce187cf30f2\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\4c9f7743d6802dec292bb06b20007ee2\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\4c9f7743d6802dec292bb06b20007ee2\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\d0ba7c2528866dc56286829cb34d29a9\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\d0ba7c2528866dc56286829cb34d29a9\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\d2d2341921e61cd17662128e95a73c57\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\d2d2341921e61cd17662128e95a73c57\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\e6423e95a8baa3630db65d56f4c17fdf\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\e6423e95a8baa3630db65d56f4c17fdf\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\71bde7521ce70a51fe5b143e8b2dd608\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\71bde7521ce70a51fe5b143e8b2dd608\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\2a41e54611849271a4151350909ffdd1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\2a41e54611849271a4151350909ffdd1\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml
+INJECTED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\91bbeeedcf0b3a6a9d6039b825a70925\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml
+		ADDED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml
+		ADDED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\CodingLatihan\Android Studio\Program\WaveLoading\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\91bbeeedcf0b3a6a9d6039b825a70925\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\b034b23b1db31c9ced41248169b82b02\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\b034b23b1db31c9ced41248169b82b02\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\be8412b773ba04f97c770ce187cf30f2\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\be8412b773ba04f97c770ce187cf30f2\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\4c9f7743d6802dec292bb06b20007ee2\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\4c9f7743d6802dec292bb06b20007ee2\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\d0ba7c2528866dc56286829cb34d29a9\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\d0ba7c2528866dc56286829cb34d29a9\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\d2d2341921e61cd17662128e95a73c57\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\d2d2341921e61cd17662128e95a73c57\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\e6423e95a8baa3630db65d56f4c17fdf\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\e6423e95a8baa3630db65d56f4c17fdf\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\71bde7521ce70a51fe5b143e8b2dd608\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\71bde7521ce70a51fe5b143e8b2dd608\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\2a41e54611849271a4151350909ffdd1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\2a41e54611849271a4151350909ffdd1\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\91bbeeedcf0b3a6a9d6039b825a70925\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Agung\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\91bbeeedcf0b3a6a9d6039b825a70925\AndroidManifest.xml:26:9-47
